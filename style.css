@@ -1,0 +1,31 @@
+#melon-image {
+    width: 75%;
+    margin-top: 75px;
+}
+
+#ubermelon-description {
+    margin-top: 30px;
+}
+
+.about-columns {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.about-columns h5 {
+    font-weight: 700;
+}
+
+table {
+    margin-top: 50px;
+}
+
+.navbar{
+    background-color: #9bc322;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+.navbar-default .navbar-brand {
+    color:black;
+}
